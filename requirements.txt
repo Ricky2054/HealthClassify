@@ -1,0 +1,7 @@
+streamlit
+geocoder
+overpy
+geopy
+numpy
+tensorflow
+scikit-learn

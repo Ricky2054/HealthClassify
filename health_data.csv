@@ -1,0 +1,66 @@
+symptoms,disease,icd10_code,severity,medication
+fever;cough;fatigue,Influenza,J10,2,Oseltamivir
+headache;nausea;sensitivity to light,Migraine,G43,2,Sumatriptan
+chest pain;shortness of breath,Myocardial Infarction,I21,3,Aspirin
+sore throat;runny nose,Common Cold,J00,1,Acetaminophen
+abdominal pain;diarrhea;vomiting,Gastroenteritis,A09,2,Loperamide
+joint pain;swelling;redness,Arthritis,M13,2,Ibuprofen
+frequent urination;thirst;fatigue,Diabetes,E11,3,Metformin
+weight loss;night sweats;fatigue,Tuberculosis,A16,3,Isoniazid
+fever;rash;muscle pain,Dengue,A90,2,Paracetamol
+itching;redness;swelling,Allergic Reaction,T78,1,Antihistamines
+fever;sore throat;swollen lymph nodes,Mononucleosis,B27,2,Acyclovir
+persistent cough;weight loss;night sweats,Chronic Bronchitis,J42,2,Bronchodilators
+dizziness;fainting;palpitations,Arrhythmia,I49,3,Amiodarone
+blurred vision;eye pain;headache,Glaucoma,H40,2,Timolol
+fever;headache;stiff neck,Meningitis,G00,3,Ceftriaxone
+persistent cough;blood in sputum,Tuberculosis,A15,3,Rifampicin
+severe abdominal pain;loss of appetite,Appendicitis,K35,3,Amoxicillin
+fever;chills;sweating,Malaria,B50,3,Chloroquine
+fatigue;pale skin;shortness of breath,Anemia,D50,2,Iron Supplements
+persistent headache;high blood pressure,Hypertension,I10,2,Lisinopril
+abdominal pain;bloody stool,Ulcerative Colitis,K51,2,Mesalamine
+chest pain;rapid heartbeat,Angina,I20,3,Nitroglycerin
+sudden numbness;slurred speech;confusion,Stroke,I63,3,Alteplase
+fatigue;weight gain;cold intolerance,Hypothyroidism,E03,2,Levothyroxine
+frequent infections;slow healing wounds,Diabetes Mellitus,E11,3,Insulin
+difficulty breathing;wheezing,Asthma,J45,2,Albuterol
+abdominal bloating;gas;diarrhea,Irritable Bowel Syndrome,K58,1,Antispasmodics
+swollen gums;bad breath;loose teeth,Periodontitis,K05,2,Chlorhexidine
+fever;headache;muscle pain,Zika Virus,A92,2,Acetaminophen
+persistent back pain;stiffness,Spinal Stenosis,M48,2,NSAIDs
+yellowing of skin;dark urine;fatigue,Hepatitis B,B18,2,Entecavir
+persistent sore throat;difficulty swallowing,Strep Throat,J02,1,Penicillin
+severe headache;blurred vision;neck stiffness,Encephalitis,A85,3,Acyclovir
+abdominal pain;loss of appetite;dark urine,Hepatitis C,B19,2,Sofosbuvir
+severe joint pain;fever;swelling,Chikungunya,A92.0,2,NSAIDs
+fever;vomiting;diarrhea,Salmonella Infection,A02,2,Fluoroquinolones
+frequent urination;pelvic pain;blood in urine,Bladder Infection,N30,2,Ciprofloxacin
+persistent cough;fever;night sweats,Lung Cancer,C34,3,Cisplatin
+fever;chills;muscle pain,Yellow Fever,A95,2,Vaccination
+sudden severe headache;vomiting;blurred vision,Brain Tumor,C71,3,Temozolomide
+painful urination;frequent urination,Urinary Tract Infection,N39,1,Nitrofurantoin
+fever;cough;shortness of breath,Pneumonia,J18,3,Azithromycin
+abdominal pain;blood in stool,Colon Cancer,C18,3,Capecitabine
+severe headache;vomiting;seizures,Epilepsy,G40,2,Levetiracetam
+persistent itching;red patches,Psoriasis,L40,2,Topical Steroids
+persistent dry cough;night sweats,Sarcoidosis,D86,2,Prednisone
+double vision;drooping eyelids,Myasthenia Gravis,G70,3,Pyridostigmine
+unexplained weight loss;chronic cough,Lung Cancer,C34,3,Pemetrexed
+burning sensation during urination,Interstitial Cystitis,N30.1,2,Amitriptyline
+persistent diarrhea;abdominal cramps,Crohn's Disease,K50,2,Infliximab
+persistent cough;shortness of breath,Chronic Obstructive Pulmonary Disease,J44,3,Tiotropium
+fatigue;swollen lymph nodes;easy bruising,Leukemia,C91,3,Imatinib
+weakness;fatigue;dark urine,G6PD Deficiency,D55,2,Folic Acid
+severe joint pain;stiffness;swelling,Rheumatoid Arthritis,M06,2,Methotrexate
+fatigue;swollen glands;headache,Lyme Disease,A69,2,Doxycycline
+severe headaches;vision problems;balance issues,Multiple Sclerosis,G35,3,Interferon Beta
+chronic fatigue;muscle pain;memory issues,Fibromyalgia,M79.7,2,Pregabalin
+persistent chest pain;palpitations,Heart Failure,I50,3,Carvedilol
+persistent cough;wheezing;shortness of breath,Bronchiectasis,J47,2,Azithromycin
+persistent abdominal pain;diarrhea;weight loss,Celiac Disease,K90,2,Gluten-Free Diet
+muscle pain;fever;headache,Rocky Mountain Spotted Fever,A77,3,Doxycycline
+persistent cough;fatigue;weight loss,Non-Hodgkin Lymphoma,C85,3,Rituximab
+persistent headache;fever;stiff neck,Fungal Meningitis,B37.5,3,Amphotericin B
+chronic abdominal pain;constipation;diarrhea,Diverticulitis,K57,2,Ciprofloxacin
+persistent fatigue;weakness;weight loss,HIV Infection,B20,3,Antiretroviral Therapy
